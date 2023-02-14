@@ -1,0 +1,36 @@
+body {
+    background-color: #f3e8ee;
+    font-size: 20px !important;
+}
+/*button center */
+button.edgvbvh9{
+    display: flex;
+    margin: auto;
+    height: 35px;
+    border-radius: 25px;
+}
+/*Buttons*/
+div.e1tzin5v0{
+    transform: translateY(-6%);
+    margin: auto;
+}
+/*Spectrogram*/
+div.css-1v0mbdj.etr89bj1{
+    transform: translateY(10%);
+}
+/*sliders*/
+/* div.css-ocqkz7.e1tzin5v4{
+    transform: translateY(-50%);
+    transform: translateX(1%);
+} */
+/*audio style */
+div.element-container.css-mt6ntq.e1tzin5v3{
+    transform: translateY(-20%);
+    transform: translateX(5%);
+    /* width: 20px; */
+}
+div.e1tzin5v4{
+    /* transform: translateY(-20%); */
+    /* padding-top: -50px; */
+    margin-top: -10px;
+}
